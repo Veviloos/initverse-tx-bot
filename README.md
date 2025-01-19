@@ -70,8 +70,7 @@ Initverse Incentivized Testnet
 Reward: Points > $INI Tokens
 
 Link: 
-https://candy.inichain.com/?invite=88X0E3WSMODCIMTJ0CQ4RO65Y
-
+https://candy.inichain.com?invite=UJAOX40LP52N0AE0L23EHZ8IP
 ➖️ Connect your metamask wallet (Burner)
 
 ➖️ Complete all task on ([TASK PAGE](https://candy.inichain.com/taskOperate))
